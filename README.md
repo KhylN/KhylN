@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Khyl Angelo Nad
+# 👋 Hi, I'm Khyl Nad
 
 💻 BSc in Computer Science @ University of Alberta | Minor in Mathematics
 
