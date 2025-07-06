@@ -2,7 +2,7 @@
 
 💻 BSc in Computer Science @ University of Alberta | Minor in Mathematics
 
-<!-- 📍 Based in Edmonton, Alberta | 🇨🇦   -->
+📍 Edmonton, Alberta | 🇨🇦
 
 <!-- ---
 
