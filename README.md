@@ -4,7 +4,7 @@
 
 📍 Edmonton, Alberta | 🇨🇦
 
-<!-- ---
+<!-- --- maybe add later
 
 ## 🌟 About Me
 
