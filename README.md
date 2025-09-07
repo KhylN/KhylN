@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Khyl Nad
 
-💻 BSc in Computer Science @ University of Alberta | Minor in Mathematics
+💻 University of Alberta Alumni | BSc in Computer Science, Minor in Mathematics
 
 📍 Edmonton, Alberta | 🇨🇦
 
