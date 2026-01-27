@@ -8,19 +8,19 @@ I build **scalable, production-ready web applications**, with a focus on **full-
 
 ---
 
-## 🧪 Featured Projects
+## Featured Projects
 
-### 🔹 MecSimCalc  
+### MecSimCalc  
 🌐 https://mecsimcalc.com/  
 Cloud-based education platform hostin interactive Python-based web applications.  
 
-### 🔹 Pipeline Reliability Platform  
+### Pipeline Reliability Platform  
 🌐 https://pipelinereliability.com/  
 Civil Engineering platform for industrial pipeline analysis with **large file processing**, **async job queues**, and **AWS-backed scalability**.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 **Languages:** Python,C, C++, C#, JavaScript, TypeScript  
 **Frontend:** React, Next.js, React Native, Redux, Tailwind, HTML, CSS  
 **Backend:** Django, .NET, REST, GraphQL, Celery  
