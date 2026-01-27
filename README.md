@@ -12,18 +12,17 @@ I build **scalable, production-ready web applications**, with a focus on **full-
 
 ### 🔹 MecSimCalc  
 🌐 https://mecsimcalc.com/  
-Cloud-based engineering simulation platform.  
-Focused on full-stack development, system design, and reliability.
+Cloud-based education platform hostin interactive Python-based web applications.  
 
 ### 🔹 Pipeline Reliability Platform  
 🌐 https://pipelinereliability.com/  
-Engineering analysis platform with **large file processing**, **async job queues**, and **AWS-backed scalability**.
+Civil Engineering platform for industrial pipeline analysis with **large file processing**, **async job queues**, and **AWS-backed scalability**.
 
 ---
 
 ## 🧰 Tech Stack
-**Languages:** C, C++, C#, Python, Java, JavaScript, TypeScript  
-**Frontend:** React, Next.js, React Native, Redux, Tailwind  
+**Languages:** Python,C, C++, C#, JavaScript, TypeScript  
+**Frontend:** React, Next.js, React Native, Redux, Tailwind, HTML, CSS  
 **Backend:** Django, .NET, REST, GraphQL, Celery  
 **Cloud:** AWS (S3, SQS, ECS Fargate, RDS, Amplify, EB)  
 **Databases:** PostgreSQL, MySQL, MongoDB, SQLite  
@@ -31,4 +30,4 @@ Engineering analysis platform with **large file processing**, **async job queues
 ---
 
 ## 📫 Connect
-[LinkedIn](https://linkedin.com/in/khyl-nad) • 📧 khylanad@gmail.com
+:information_source:(https://linkedin.com/in/khyl-nad) • 📧 khylanad@gmail.com
