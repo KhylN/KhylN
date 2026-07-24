@@ -2,7 +2,7 @@
 
 💻 Full-Stack Software Developer  
 🎓 University of Alberta — BSc Computer Science (Math Minor)  
-📍 Edmonton, Canada 🇨🇦  
+📍 Calgary, Canada 
 
 I build **scalable, production-ready web applications**, with a focus on **full-stack development**, **cloud architecture**, and **performance-heavy systems**.
 
